@@ -1,6 +1,6 @@
 ---
 title: Fractal Basics
-date: 2021-10-12T23:26:26.005Z
+date: 2021-10-12T23:29:20.306Z
 image: ./images/instabilities.jpg
 description: A beginners guide to being successful in fractals.
 author: Princeps.6481 and Mistlocked [FotM]
@@ -10,7 +10,7 @@ author: Princeps.6481 and Mistlocked [FotM]
 
 Fractals of the mists or also frequently called FOTM (or just "fracs") are 5-man repeatable endgame dungeon-like content with a large scale of difficulty and rewards. There are 100 levels that are structured into 4 different tiers each consisting out of 25 levels. You can find the portal entrance to fractals in Fort Marriner in Lions Arch. There are no gear requirements for tier 1 fractals allowing anybody to try fractals out.
 
-The higher level the more mechanics are added to fractals, the harder hit enemies but you also receive more loot. Starting from level 20 the players need to deal with <Effect name="Agony"/> which requires <Attribute name="Agony Resistance"/> to counter effectively. Every level has a recommendation of how much <Attribute name="Agony Resistance"/> you should have at least. Without <Attribute name="Agony Resistance"/> you lose a percentage of your HP every second while under the effect of <Effect name="Agony"/>. Click on the <Effect name="Agony"/> icon to learn more about the scaling of the damage by <Effect name="Agony"/>.
+The higher level the more mechanics are added to fractals, the harder the enemies hit but you also receive more loot. Starting from level 20 the players need to deal with <Effect name="Agony"/> which requires <Attribute name="Agony Resistance"/> to counter effectively. Every level has a recommendation of how much <Attribute name="Agony Resistance"/> you should have at least. Without <Attribute name="Agony Resistance"/> you lose a percentage of your HP every second while under the effect of <Effect name="Agony"/>. Click on the <Effect name="Agony"/> icon to learn more about the scaling of the damage by <Effect name="Agony"/>.
 
 <Warning>
 <Effect name="Agony"/> reduces your healing by 70% per stack. Never use your heal skill while you are under the effect of <Effect name="Agony"/>.
