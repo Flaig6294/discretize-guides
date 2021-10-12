@@ -1,6 +1,6 @@
 ---
 title: Fractal Basics
-date: 2021-10-06T18:27:22.614Z
+date: 2021-10-12T23:26:26.005Z
 image: ./images/instabilities.jpg
 description: A beginners guide to being successful in fractals.
 author: Princeps.6481 and Mistlocked [FotM]
@@ -160,7 +160,7 @@ Congratulations! Now you should have exactly 162 <Attribute name="Agony Resistan
 
 ## Current fractal META
 
-Although most groups in LFG don't follow the META it can be beneficial for you to understand how it works in theory to play your own build more efficiently. All the builds in the META have very specific key roles. It is important to fulfil your role to aid the best possible support to your team (also DPS classes support the team with CC and other unique buffs).
+Although most groups in LFG don't follow the META it can be beneficial for you to understand how it works in theory to play your own build more efficiently. All the builds in the META have very specific key roles. It is important to fulfil your role to provide the best possible support to your team (also DPS classes support the team with CC and other unique buffs).
 
 Please consult the [meta-page](guides/meta-explained) for more information about the current fractal META.
 
