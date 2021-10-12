@@ -1,6 +1,6 @@
 ---
 title: CC Distribution
-date: 2021-10-03T16:06:47.703Z
+date: 2021-10-12T23:21:51.052Z
 image: ./images/preview.jpg
 description: Learn how to contribute your share of CC to break all the bars.
 ---
@@ -96,7 +96,7 @@ At 2000 Siax has a medium-sized defiance bar that will need to be broken twice i
 
 <Boss name="Ensolyss" hideRotation>
 
-At 2000 in the first phase, and ~2250 in the second and third phase, Ensolyss has sizeable defiance bars, but since condi is now played here you actually want to delay them to maximise the times your condis have to ramp up. In phase 1 ideally you will break just before Ensolyss does his slam attack. In phase 2+3 ideally you want to break just before the second pizza attack goes off, this also means in phase 3 you should have enough damage to get Ensolyss below 15% during exposed, meaning you will skip the bubble attack where Ensolyss cleanses all conditions on him. Also if you want to go for faster times on thiss boss, replacing a <BuildLink build="Condi Firebrand" specialization="Firebrand"/> with a <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> will decrease your kill time.
+At 2000 in the first phase, and ~2250 in the second and third phase, Ensolyss has sizeable defiance bars, but since condi is now played here you actually want to delay them to maximise the times your condis have to ramp up. In phase 1 ideally you will break just before Ensolyss does his slam attack. In phase 2+3 ideally you want to break just before the second pizza attack goes off, this also means in phase 3 you should have enough damage to get Ensolyss below 15% during exposed, meaning you will skip the bubble attack where Ensolyss cleanses all conditions on him. Also if you want to go for faster times on this boss, replacing a <BuildLink build="Condi Firebrand" specialization="Firebrand"/> with a <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> will decrease your kill time.
 
 **Due to the fact you gain a substantial amount of slow CC from conditions and the fact that depending on your groups DPS changes the time you want to CC. There is no schedule below and instead the common skills you have availible, because it will vary between groups.**
 
@@ -168,7 +168,7 @@ Classes such as <Specialization name="Soulbeast"/> get the <Item name="severance
 
 <Boss name="LightAi" hideRotation>
 
-At 3200 Ai has the largest breakbar in fractals. Bear in mind the following values are the minimum you will want to CC with. Due to bar regen you typically will have to use more CC skills depending on how fast you break it. Slow CC is a massive help here. Like ensolyss this cc schedule should be adjusted to fit your groups DPS. Also if you want to go for faster times on thiss boss, replacing a <BuildLink build="Condi Firebrand" specialization="Firebrand"/> with a <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> will decrease your kill time.
+At 3200 Ai has the largest breakbar in fractals. Bear in mind the following values are the minimum you will want to CC with. Due to bar regen you typically will have to use more CC skills depending on how fast you break it. Slow CC is a massive help here. Like ensolyss this cc schedule should be adjusted to fit your groups DPS. Also if you want to go for faster times on this boss, replacing a <BuildLink build="Condi Firebrand" specialization="Firebrand"/> with a <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> will decrease your kill time.
 
 </Boss>
 
