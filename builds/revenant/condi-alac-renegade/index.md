@@ -1,24 +1,5 @@
 ---
 title: Condi Alac Renegade
-rating: Meta
-skills:
-  - 45773
-  - 27505
-traits:
-  - 2182
-classification:
-  - 4
-  - 3
-  - 4
-  - 3
-  - 5
-boons:
-  - name: Alacrity
-    uptime: 100%
-    variant: party
-  - name: Might
-    uptime: 13 stacks
-    variant: party
 sections:
   - type: mdx
     title: Overview
@@ -509,15 +490,34 @@ sections:
       </GridItem>
 
       </Grid>
+rating: Meta
 role: Condi Damage
 author: PineappleMan.1430
 profession: Revenant
 specialization: Renegade
+skills:
+  - 45773
+  - 27505
+traits:
+  - 2182
 conditions:
   - Vulnerability
-code: '[&DQkDLg4dPzrcEdwR1BHUESsSKxIGEgYSyhHKEQUEAgMrEgYS1BEGEtQRKxI=]'
-date: 2021-10-05T11:17:37.841Z
+boons:
+  - name: Alacrity
+    uptime: 100%
+    variant: party
+  - name: Might
+    uptime: 13 stacks
+    variant: party
+code: "[&DQkDLg4dPzrcEdwR1BHUESsSKxIGEgYSyhHKEQUEAgMrEgYS1BEGEtQRKxI=]"
 hasCMGuide: false
+classification:
+  - 4
+  - 3
+  - 4
+  - 3
+  - 5
+date: 2021-10-12T23:40:12.684Z
 ---
 
 <Divider text="Rotation / Skill usage"/>
@@ -540,7 +540,7 @@ Right after you're done with <Skill id="41858"/> skills, swap to <Skill id="2849
 
 You will want to use <Skill id="45537"/> and <Skill name="Heroic Command"/> off cooldown/at key moments. If <Skill id="45537"/> will be off cooldown during a <Skill id="28494"/> Rotation, stop <Skill name="Embrace The Darkness"/> right before **Step 9**. If it will be off cooldown during a <Skill id="41858"/> Rotation, don't use <Skill id="40485"/>.
 
-When you swap your legend first and then your weapon, you will be able to proc Sigil effects twice due to them triggering on legend swap.
+When you swap your legend first and then your weapon, you will be able to proc sigil effects twice due to them triggering on legend swap.
 </Card>
 
 <Card title="Raid Golem Rotation">
