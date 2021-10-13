@@ -191,7 +191,7 @@ sections:
       ### High-Burst Variant
 
 
-      This variant is meant for short-duration fights or bosses with short phases; without any Cantrip slotted, take <Trait name="maliciousintent"/> over <Trait name="oneinthechamber"/>. Take <Skill id="13026"/> over <Skill name="devourervenom"/> on Ensolyss, or <Skill name="mercy"/> with <Trait name="oneinthechamber"/> if group DPS is not high enough not to run out of _Initiative_.
+      This variant is meant for short-duration fights or bosses with short phases; without any Cantrips slotted, take <Trait name="maliciousintent"/> over <Trait name="oneinthechamber"/>. Take <Skill id="13026"/> over <Skill name="devourervenom"/> on Ensolyss, or <Skill name="mercy"/> with <Trait name="oneinthechamber"/> if group DPS is not high enough not to run out of _Initiative_.
 
 
       <Grid>
@@ -267,8 +267,20 @@ sections:
 rating: Meta
 role: Condi Damage
 profession: Thief
+specialization: Deadeye
 skills:
   - 13132
+conditions:
+  - Vulnerability
+  - Weakness
+  - Immobilize
+  - Poisoned
+  - Bleeding
+  - Torment
+boons:
+  - name: Might
+    uptime: 3 stacks
+    variant: party - situational
 classification:
   - 3
   - 5
@@ -277,21 +289,9 @@ classification:
   - 4
 compositions:
   - name: _CRGB
-specialization: Deadeye
-conditions:
-  - Vulnerability
-  - Weakness
-  - Immobilize
-  - Poisoned
-  - Bleeding
-  - Torment
-code: '[&DQUsPhwbOh8MAYUAIBcAAD4BAAAvAQAAPRYAAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQUsPhwbOh8MAYUAIBcAAD4BAAAvAQAAPRYAAAAAAAAAAAAAAAAAAAAAAAA=]"
+date: 2021-10-13T00:57:38.179Z
 hasCMGuide: false
-date: 2021-10-03T12:19:56.299Z
-boons:
-  - name: Might
-    uptime: 3 stacks
-    variant: party - situational
 ---
 
 <Divider text="Rotation / Skill usage"/>
